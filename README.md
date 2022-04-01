@@ -1,18 +1,23 @@
-### Hello! 👋 
+<h3 align="center">Hello, I'm Christopher Linscott! 👋</h3> 
 
-My name is Christopher Linscott. I'm currently a third-year undergraduate student at **Occidental College**, studying Computer Science.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&duration=6000&center=true&width=2000&height=100&lines=I'm+a+third+year+Computer+Science+student.;I'm+a+guitarist.;I'm+an+avid+fan+of+basketball%2C+volleyball%2C+and+hiking.)](https://git.io/typing-svg)
 
-🌱 I’m currently learning ...
+<h3 align="left">🌱 I’m currently learning ...</h3>
+
 - The MERN stack
   - **M**ongoDB, **E**xpress, **R**eact, and **N**odeJS
 - Data Structures / Algorithms
 
-All my main, big projects & homework assignments are pinned on my profile, feel free to view them!
+<h3>All my main, big projects, and homework assignments are pinned on my profile, feel free to view them!</h3>
 
-📫 How to reach me: 
-- https://www.linkedin.com/in/christopher-linscott-1b234944/
+<h3> 📫 How to reach me: </h3> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linschris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3><a href="https://www.linkedin.com/in/christopher-linscott-1b234944/">LinkedIn</a></h3>
+<h3><a href="mailto:clinscott@oxy.edu">Email</a></h3>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linschris&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
