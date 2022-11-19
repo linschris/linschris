@@ -1,6 +1,6 @@
 <h3 align="center">Hello, I'm Christopher Linscott! 👋</h3> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&duration=6000&center=true&width=2000&height=100&lines=I'm+a+third+year+Computer+Science+student.;I'm+a+guitarist.;I'm+an+avid+fan+of+basketball%2C+volleyball%2C+and+hiking.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&duration=6000&center=true&width=2000&height=100&lines=I'm+a+fourth+year+Computer+Science+student.;I'm+a+guitarist.;I'm+an+avid+fan+of+basketball%2C+volleyball%2C+and+hiking.)](https://git.io/typing-svg)
 
 <h3 align="left">🌱 I’m currently learning ...</h3>
 
